@@ -30,11 +30,11 @@ Each framework implements the same features so that the focus is on **difference
 
 🔗 Here are the framework-specific repositories:
 
-* [Java (Spring Boot)]() *(upcoming)*
+* [C# (.NET)](https://github.com/JoaoVLima/TodoApp-CSharp) *(in development)*
+* [Java (Spring Boot)](https://github.com/JoaoVLima/TodoApp-Java) *(in development)*
 * [PHP (Laravel)]() *(upcoming)*
 * [Ruby (Rails)]() *(upcoming)*
 * [Haskell (Scotty)]() *(upcoming)*
-* [C# (.NET)]() *(upcoming)*
 
 ---
 
